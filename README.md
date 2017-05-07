@@ -1,4 +1,3 @@
-# Assignment 1 - ReactJS app.
 
 Name: Faraz Tahir
 
