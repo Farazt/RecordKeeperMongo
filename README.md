@@ -1,6 +1,4 @@
 
-Name: Faraz Tahir
-
 ## Overview.
 This app can be used to save user daily activities like what kind of Activities he has been doing to remain fit and for how long. Along with that I am extending to include Health news blogs into it and user follow ups.
 
